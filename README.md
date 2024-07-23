@@ -3,6 +3,7 @@ A comprehensive project developed in C++ to streamline and enhance the operation
 It is developed to provide a user-friendly, secure, and scalable platform for managing various banking functions, ensuring the utmost convenience for both bank staff and customers. 
 The system encompasses various modules and features, enabling the bank to offer a wide array of services while maintaining data integrity and security.
 Additionally, it assists in complying with various regulatory requirements, ultimately leading to a more robust and competitive financial institution.
+
 #Key features of BMS are :
 a)Customer Management:
                       Customer registration and profile management.
